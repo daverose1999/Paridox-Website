@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    font-family: Poppins;
+  }
+  .section1{
+      height: 665px;
+      background-image: url(assets/background.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
